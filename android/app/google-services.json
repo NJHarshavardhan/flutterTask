@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497440820360",
+    "project_id": "flipkarttask",
+    "storage_bucket": "flipkarttask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497440820360:android:5d4c40fdee5c8c60d6e33d",
+        "android_client_info": {
+          "package_name": "com.example.flipkart_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpDsf5xr0iXm0OmUaKQCfpbpk8wWwLRxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
